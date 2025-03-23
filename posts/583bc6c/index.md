@@ -10,5 +10,5 @@
 ---
 
 > 作者: zengdelong  
-> URL: https://example.org/posts/583bc6c/  
+> URL: https://tianyi.github.io/posts/583bc6c/  
 

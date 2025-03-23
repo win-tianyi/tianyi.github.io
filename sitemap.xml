@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://tianyi.github.io/categories/</loc>
     <lastmod>2025-03-23T22:22:25+08:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://tianyi.github.io/posts/</loc>
     <lastmod>2025-03-23T22:22:25+08:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://tianyi.github.io/tags/</loc>
     <lastmod>2025-03-23T22:22:25+08:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://tianyi.github.io/</loc>
     <lastmod>2025-03-23T22:22:25+08:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/</loc>
+    <loc>https://tianyi.github.io/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/</loc>
     <lastmod>2025-03-23T22:22:25+08:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/tags/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/</loc>
+    <loc>https://tianyi.github.io/tags/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/</loc>
     <lastmod>2025-03-23T22:22:25+08:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/posts/583bc6c/</loc>
+    <loc>https://tianyi.github.io/posts/583bc6c/</loc>
     <lastmod>2025-03-23T22:22:25+08:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/collections/</loc>
+    <loc>https://tianyi.github.io/collections/</loc>
   </url>
 </urlset>
